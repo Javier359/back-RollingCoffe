@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Javier Jimenez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
 }
